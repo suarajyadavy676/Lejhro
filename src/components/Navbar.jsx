@@ -7,7 +7,7 @@ function Navbar() {
     <img src="./images/logo.png" alt="log" className='w-60 h-10' />
     </Link>
     <p>
-      <Link to='/innovation'>Innovatons</Link>
+      <Link to='/innovation'>Innovations</Link>
     </p>
     <p>Business Services</p>
     <p>Financial Services</p>
