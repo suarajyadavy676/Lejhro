@@ -7,12 +7,6 @@ function Innovation() {
     <p>We at Lejhro believe Research & Development(R&D) as the best investment for the future.</p>
     <img src="./images/innovations.png" alt="img" className='my-4' />
     
-    <div className='mt-10'>
-      <h1 className='text-2xl font-bold'>Product Development</h1>
-      <p>The journey of a new product development starts with an idea that should be untried or out of the box, forming the foundation for further development.</p>
-      <img src="./images/img3.png" alt="img" className='my-4' />
-    </div>
-
     <div className='grid grid-cols-1 md:grid-cols-2 justify-between my-20'>
       <div>
       <p className='my-4'>R&D, an essential function for many businesses, is responsible for achieving breakthroughs in innovation.</p>
@@ -21,6 +15,13 @@ function Innovation() {
       </div>
       <img src="./images/img1.png" alt="" />
     </div>
+    
+    <div className='mt-10'>
+      <h1 className='text-2xl font-bold'>Product Development</h1>
+      <p>The journey of a new product development starts with an idea that should be untried or out of the box, forming the foundation for further development.</p>
+      <img src="./images/img3.png" alt="img" className='my-4' />
+    </div>
+
 
     <div className='grid grid-cols-1 md:grid-cols-2 mt-10'>
       <div>
